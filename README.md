@@ -1,0 +1,4 @@
+- 👋 Hi, We're @sockhodler, the Premium Provider of Crypto Socks paired with NFT's on Algorand.
+- 👀 We're interested in Algorand, Blockchain Projects, & Crypto Socks.
+- 💞️ We're looking to collaborate on Algorand smart contracts, Teal, Front End Dev.
+- 📫 Reach us @ sockmaster@sockhodler.com.
